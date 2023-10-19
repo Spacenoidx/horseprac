@@ -29,3 +29,4 @@ for station in stationlist:
         count += 1
 
 print(f"There are {count} WMATA Metro stations in this city. ")
+print("Have a nice day.")
